@@ -203,7 +203,7 @@ div {
 }
 
 .information-group {
-  background-image: url("/img/main-bg.png");
+  background-image: url("img/main-bg.png");
   background-size: cover;
   background-position: center center;
   border-radius: 10px;
@@ -231,7 +231,7 @@ div {
 }
 
 .information-group__link::after {
-  content: url("/img/right-arrow.svg");
+  content: url("img/right-arrow.svg");
   display: inline-block;
   width: 18px;
   height: 18px;
@@ -511,7 +511,7 @@ div {
     max-width: 100%;
     border-radius: 10px;
     padding: 25px 15px;
-    background-image: url("/img/main-bg.png");
+    background-image: url("img/main-bg.png");
     background-size: cover;
     background-position: center center;
   }
@@ -538,7 +538,7 @@ div {
     max-width: 100%;
     border-radius: 10px;
     padding: 25px 15px;
-    background-image: url("/img/main-bg.png");
+    background-image: url("img/main-bg.png");
     background-size: cover;
     background-position: center center;
   }
@@ -551,7 +551,7 @@ div {
     max-width: 100%;
     border-radius: 10px;
     padding: 25px 15px;
-    background-image: url("/img/main-bg.png");
+    background-image: url("img/main-bg.png");
     background-size: cover;
     background-position: center center;
   }
@@ -564,7 +564,7 @@ div {
     max-width: 100%;
     border-radius: 10px;
     padding: 25px 15px;
-    background-image: url("/img/main-bg.png");
+    background-image: url("img/main-bg.png");
     background-size: cover;
     background-position: center center;
   }
