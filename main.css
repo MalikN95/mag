@@ -469,6 +469,10 @@ div {
     background-position: center center;
   }
 
+  .information-group__automation .information-group__automation_card {
+    max-width: 75%;
+  }
+
   .information-group__sell {
     margin-top: 10px;
     display: flex;
@@ -484,6 +488,7 @@ div {
 
   .information-group__sell_card {
     margin: 0;
+    max-width: 100%;
   }
 
   .information-group {
