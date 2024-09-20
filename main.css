@@ -523,4 +523,8 @@ div {
   .information-group__text {
     margin-top: 20px;
   }
+
+  .information-group__chart_card {
+    max-width: 80%;
+  }
 }
