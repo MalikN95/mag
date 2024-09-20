@@ -561,4 +561,8 @@ div {
   .information-group__automation-info{
     margin-top: 0;
   }
+
+  .header-trial-text{
+    width: 70%;
+  }
 }
